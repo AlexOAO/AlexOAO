@@ -1,5 +1,5 @@
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## About me
 Hi! I’m Alex.
 
 I am a graduate student in Finance from NTUST. I also ompleted another master’s degree in GMBA at THU.
