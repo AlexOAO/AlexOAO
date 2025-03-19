@@ -9,6 +9,6 @@ I’ve traveled in different parts of the world and um currently lived in Taiwan
 ## Featured Repositories
 
 Occasionally, I find time to combining finance and technology.
-Here are some of my top repositories, sorted by the number of stargazers:
+Here are some of my top repositories, sorted by alphabet:
 
 credit_risk_anaysis: An online tool is available for bank credit grantors in predicting probability of default risk.
