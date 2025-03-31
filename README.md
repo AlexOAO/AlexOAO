@@ -8,8 +8,12 @@ I’ve traveled in different parts of the world and um currently lived in Taiwan
 ## Taken lesson  
 
 Occasionally, I study courses about AI in order to combining finance and technology.  
+NTU_Large_language_model:aaa
+NTU_structurted_query_language:aaa
+NTU_structurted_query_language_advanced:aaa
 NTUST_financial_analytics:aaa  
 NTUST_machine_learning:aaa  
+NKUST_LSTM:aaa   
 THU_artificial_intellengence:aaa  
 THU_structurted_query_language:aaa  
 
