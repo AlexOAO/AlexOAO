@@ -2,11 +2,11 @@
 ## 🧑‍💻 About me
 Hi! I’m Alex.
 
-🎓 M.S. in Finance @ National Taiwan University of Science and Technology (NTUST)
-🎓 Global MBA @ Tunghai University (THU)
-🌏 World traveler currently based in Taiwan 🇹🇼
-🗣️ Fluent in Mandarin & English
-💡 Passionate about combining Finance × AI × Data Science × Quantitative trading
+🎓 M.S. in Finance @ National Taiwan University of Science and Technology (NTUST)  
+🎓 Global MBA @ Tunghai University (THU)  
+🌏 World traveler currently based in Taiwan 🇹🇼  
+🗣️ Fluent in Mandarin & English  
+💡 Passionate about combining Finance × AI × Data Science × Quantitative trading  
 
 ---
  
