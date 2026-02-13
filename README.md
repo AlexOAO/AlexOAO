@@ -49,9 +49,6 @@ Here are some of my top repositories, sorted by alphabet :
 | [**TejData**](https://github.com/AlexOAO/TejData) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
 
 ---
-
-## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
