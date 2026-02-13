@@ -1,14 +1,14 @@
 
 ## 🧑‍💻 About me
-Hi! I’m Alex. I'm a finance graduate student at National Taiwan University of Science and Technology with a mission: making financial services smarter through AI and data science.
-My journey began with quantitative trading research, evolved through building AI customer service systems at Taiwan Economic Journal, and now continues as an AI intern at KGI Financial Holding.
-I specialize in:
-✓ Quantitative strategy development & backtesting
-✓ AI applications in finance (robo-advisory, intelligent CRM)
-✓ Python, SQL, and LLM integration
-What drives me:
-The intersection of finance and technology. I believe the future of financial services lies in intelligent automation and data-driven decision-making.
-Always eager to connect with fellow FinTech enthusiasts and explore opportunities in AI-powered financial innovation.
+Hi! I’m Alex from Taiwan with a mission: making financial services smarter through AI and data science.
+My journey began with quantitative trading research, evolved through building AI customer service systems at Taiwan Economic Journal, and now continues as an AI intern at KGI Financial Holding.  
+I specialize in:  
+✓ Quantitative strategy development & backtesting  
+✓ AI applications in finance (robo-advisory, intelligent CRM)  
+✓ Python, SQL, and LLM integration  
+What drives me:  
+The intersection of finance and technology. I believe the future of financial services lies in intelligent automation and data-driven decision-making.  
+Always eager to connect with fellow FinTech enthusiasts and explore opportunities in AI-powered financial innovation.  
 
 ---
 
