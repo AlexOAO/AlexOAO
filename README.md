@@ -1,6 +1,29 @@
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   █████╗ ██╗     ███████╗██╗  ██╗                 ║
+║  ██╔══██╗██║     ██╔════╝╚██╗██╔╝                 ║
+║  ███████║██║     █████╗   ╚███╔╝                  ║
+║  ██╔══██║██║     ██╔══╝   ██╔██╗                  ║
+║  ██║  ██║███████╗███████╗██╔╝ ██╗                 ║
+║  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝                 ║
+║                                                   ║
+║                 ★ Welcome, Alex ★                 ║
+║---------------------------------------------------║
+║         Enjoy your coding journey ahead! 🚀       ║
+╚═══════════════════════════════════════════════════╝
+```
 
 ## 🧑‍💻 About me
-Hi! I’m Alex from Taiwan with a mission: making financial services smarter through AI and data science.
+
+Hi! I’m Alex.
+
+🎓 M.S. in Finance @ National Taiwan University of Science and Technology (NTUST)  
+🎓 Global MBA @ Tunghai University (THU)  
+🌏 World traveler currently based in Taiwan 🇹🇼  
+🗣️ Fluent in Mandarin & English  
+💡 Passionate about combining Finance × AI × Data Science × Quantitative trading  
+
 My journey began with quantitative trading research, evolved through building AI customer service systems at Taiwan Economic Journal, and now continues as an AI intern at KGI Financial Holding.  
 I specialize in:  
 ✓ Quantitative strategy development & backtesting  
@@ -9,14 +32,6 @@ I specialize in:
 What drives me:  
 The intersection of finance and technology. I believe the future of financial services lies in intelligent automation and data-driven decision-making.  
 Always eager to connect with fellow FinTech enthusiasts and explore opportunities in AI-powered financial innovation.  
-
----
-
-🎓 M.S. in Finance @ National Taiwan University of Science and Technology (NTUST)  
-🎓 Global MBA @ Tunghai University (THU)  
-🌏 World traveler currently based in Taiwan 🇹🇼  
-🗣️ Fluent in Mandarin & English  
-💡 Passionate about combining Finance × AI × Data Science × Quantitative trading  
 
 ---
  
