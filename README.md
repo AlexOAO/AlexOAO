@@ -10,7 +10,7 @@
 ║                                                   ║  
 ║                 ★ Welcome, Alex ★                 ║  
 ║---------------------------------------------------║  
-║         Enjoy your coding journey ahead! 🚀       ║  
+║          Enjoy your coding journey ahead !        ║  
 ╚═══════════════════════════════════════════════════╝  
 ```
 
