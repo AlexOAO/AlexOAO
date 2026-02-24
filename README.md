@@ -59,7 +59,7 @@ Here are some of my top repositories, sorted by alphabet :
 | Project | Description |
 |---------|-------------|
 | [**AICustomerService**](https://github.com/AlexOAO/AICustomerService) | An AI-powered customer service chatbot for banking, leveraging LLMs to automate client inquiries and enhance service efficiency. |
-| [**CreditRiskAnalysis**](https://github.com/AlexOAO/CreditRiskAnalysis) | An online tool for bank credit grantors to predict probability of default risk. |
+| [**CreditRiskAnalysis**](https://github.com/AlexOAO/CreditRiskAnalysis) | [**An online tool**](https://alexoao.github.io/CreditRiskAnalysis/) for bank credit grantors to predict probability of default risk. |
 | [**OpenStrategy**](https://github.com/AlexOAO/OpenStrategy) | A collection of quantitative trading strategies with backtesting pipelines. Covers momentum, mean-reversion, and factor-based approaches using Python and TEJ data. |
 | [**TejData**](https://github.com/AlexOAO/TejData) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
 
