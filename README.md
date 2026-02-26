@@ -59,10 +59,13 @@ Here are some of my top repositories, sorted by alphabet :
 | Project | Description |
 |---------|-------------|
 | [**AICustomerService**](https://github.com/AlexOAO/AICustomerService) | An AI-powered customer service chatbot for banking, leveraging LLMs to automate client inquiries and enhance service efficiency. |
-|[**ASRtoText**](https://github.com/AlexOAO/ASRtoText)| An AI-powered customer service chatbot for banking, leveraging LLMs to automate client inquiries and enhance service efficiency.|
+| [**ASRtoText**](https://github.com/AlexOAO/ASRtoText)| An AI-powered customer service chatbot for banking, leveraging LLMs to automate client inquiries and enhance service efficiency.|
 | [**CreditRiskAnalysis**](https://github.com/AlexOAO/CreditRiskAnalysis) | [**An online tool**](https://alexoao.github.io/CreditRiskAnalysis/) for bank credit grantors to predict probability of default risk. |
+| [**FinMindMCP**](https://github.com/AlexOAO/FindMindMCP) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
+| [**FinSkipper**](https://github.com/AlexOAO/FinSkipper) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
+| [**FmpMCP**](https://github.com/AlexOAO/FmpMCP) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
 | [**OpenStrategy**](https://github.com/AlexOAO/OpenStrategy) | A collection of quantitative trading strategies with backtesting pipelines. Covers momentum, mean-reversion, and factor-based approaches using Python and TEJ data. |
-| [**TejData**](https://github.com/AlexOAO/TejData) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
+| [**TejMCP**](https://github.com/AlexOAO/TejMCP) | MCP  server tools integrating TEJ datasets, enabling AI agents to query and analyze Taiwan financial market data seamlessly. |
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
